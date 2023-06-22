@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=ibnulakib&color=blue)
+---
+[![](https://visitcount.itsvg.in/api?id=ibnulakib&icon=2&color=9)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 😃 I am Ibnul Akib. I'm a passionate coder, web developer who enjoys experimenting with new technologies.<br><br>🔭 I’m currently working on problem solving and my personal projects.<br>🌱 I’m currently learning new technologies.
@@ -16,7 +17,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibnulakib&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnulakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ibnulakib&icon=2&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
