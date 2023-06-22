@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=ibnulakib&color=blue)
+
 # 💫 About Me:
 😃 I am Ibnul Akib. I'm a passionate coder, web developer who enjoys experimenting with new technologies.<br><br>🔭 I’m currently working on problem solving and my personal projects.<br>🌱 I’m currently learning new technologies.
 
